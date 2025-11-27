@@ -6,3 +6,8 @@ a{ color: #3B82F6 ; text-decoration-line: none;}
 div,span{color:#F3F4F6;text-transform: capitalize; margin-top: 50px;   font-family: 'JetBrains Mono', monospace;}
 .wolfascii,em{ color: #312E81;}
 b{ color: #9CA3AF;}
+img{display:block;margin:20px auto;max-width:80%;border-radius:10px;}
+p {
+  white-space: pre-line;
+  word-break: break-word;     
+}
